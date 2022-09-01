@@ -2,7 +2,7 @@
 <a href="https://github.com/florinpop17/app-ideas/">Ideia</a>
 
 **Tier:** 1-Beginner
-Preview: 
+Preview: https://oeleomar.github.io/binario-decimal/
 
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
